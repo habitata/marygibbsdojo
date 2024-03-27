@@ -3,7 +3,7 @@ import { RiDiscordFill } from 'react-icons/ri';
 
 export default function Join() {
   return (
-    <div className='flex h-[calc(100vh-6rem)] flex-col items-center justify-center gap-2'>
+    <div className='flex h-[calc(100dvh-6rem)] flex-col items-center justify-center gap-2'>
       <a href='https://discord.gg/2Zp7ptH7'>
         <RiDiscordFill
           size={96}
