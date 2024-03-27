@@ -15,25 +15,25 @@ export default function MainPage() {
     {
       index: 1,
       name: 'About',
-      bgUrl: '/img/bg_1.png',
+      bgUrl: './img/bg_1.png',
       children: <About />,
     },
     {
       index: 2,
       name: 'Techniques',
-      bgUrl: '/img/bg_4.png',
+      bgUrl: './img/bg_4.png',
       children: <Techniques />,
     },
     {
       index: 3,
       name: 'Rules',
-      bgUrl: '/img/bg_5.png',
+      bgUrl: './img/bg_5.png',
       children: <Rules />,
     },
     {
       index: 4,
       name: 'Join Dojo',
-      bgUrl: '/img/bg_2.png',
+      bgUrl: './img/bg_2.png',
       children: <Join />,
     },
   ];
