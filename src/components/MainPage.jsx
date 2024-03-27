@@ -77,14 +77,14 @@ export default function MainPage() {
             <RiYoutubeFill className='mt-2 hover:text-red-700' size={64} />
           </a>
         </div> */}
-      </div>
-      <div className="bg-[url('./img/bg_1.png')] bg-cover bg-right px-4">
-        <Join />
-      </div>
+        <div className="bg-[url('./img/bg_1.png')] bg-cover bg-right px-4">
+          <Join />
+        </div>
 
-      <p className='h-12 bg-black pl-2 pt-3 text-slate-900'>
-        Place for granny pron
-      </p>
+        <p className='h-12 bg-black pl-2 pt-3 text-slate-900'>
+          Place for granny pron
+        </p>
+      </div>
     </>
   );
 }
