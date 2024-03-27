@@ -12,7 +12,7 @@ export default function NavItem({
   const bgStyle = tw`bg-[image:var(--background-image-url)] bg-cover bg-center bg-no-repeat`;
   const dynamicWidth = isActive
     ? 'w-3/4'
-    : 'w-1/4 brightness-50 hover:brightness-100';
+    : 'w-1/3 brightness-50 hover:brightness-100';
 
   return (
     <div

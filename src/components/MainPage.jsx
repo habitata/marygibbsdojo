@@ -24,12 +24,12 @@ export default function MainPage() {
       bgUrl: './img/bg_4.png',
       children: <Techniques />,
     },
-    {
-      index: 3,
-      name: 'Rules',
-      bgUrl: './img/bg_5.png',
-      children: <Rules />,
-    },
+    // {
+    //   index: 3,
+    //   name: 'Rules',
+    //   bgUrl: './assets/img/bg_5.png',
+    //   children: <Rules />,
+    // },
     {
       index: 4,
       name: 'Join Dojo',
